@@ -1,3 +1,8 @@
+I just add `TOML_DARK.xml` for dark NPP theme only.
+
+Color style is copy from TOML official site.  
+Too sad I can not figure out how to styling the leading `[table]` and `[[table-list]]`. I keep it as default (white).
+
 # NPP-TOML-Syntax
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
