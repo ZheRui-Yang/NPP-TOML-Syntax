@@ -18,6 +18,10 @@ This is provides syntax highlighting for [TOML][toml] in Notepad++. This repo st
 
 <img src="example_screenshot.png" width="600">
 
+`TOML_DARK.xml`
+
+<img src="darkmode_example.png" width="600">
+
 
 [toml]: https://github.com/toml-lang/toml
 [currver]: https://github.com/toml-lang/toml/blob/master/versions/en/toml-v0.5.0.md
